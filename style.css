@@ -23,7 +23,11 @@ p{
    
 }
 .half img{
-    width: 80%;
+    width: 50%;
+    margin-top:5rem;
+}
+.halff img{
+  width:100%;
 }
 .link-button{
      text-decoration: none;
@@ -54,12 +58,12 @@ p{
     text-align: center;
 }
 .Experience-item{
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 30%;
+  
     box-shadow:10px 10px 40px wheat;
-    padding-left: 10;
+   
     border-radius: 20px;
+    padding: 1rem;
 }
 h5{
     font-weight: 700;
@@ -72,19 +76,21 @@ p{
     padding-left: 15px;
 }
  .Rima{
-    width:80%;
-    padding: 4rem 3rem;
+    width:100%;
+    
    
    
 }
 .Shima{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    padding: 3rem;
+    padding: 1rem 2rem;
     box-shadow:0 10px 15px 0 rgb(0,0,0,.2) ;
-    margin-left:110px;
-    border-radius: 5px;
+  
+    border-radius: 10px;
+    width:80% ;
+    margin: 0 auto;
    
 }
 .shima h1{
@@ -127,6 +133,20 @@ p{
     
     
 }
+.recipe{
+    display: flex;
+    justify-content:space-between;
+    padding: 3rem;
+}
+.Experience-item img{
+    width: 100%;
+    
+}
+footer{
+    margin-top:3rem ;
+}
+
+
 
 
 
