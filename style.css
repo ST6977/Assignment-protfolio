@@ -39,6 +39,9 @@ p{
 .top-banner{
     background-image:url(images/shapes/7.png);
     background-repeat: no-repeat;
+    background-size: cover;
+   
+ 
    
 }
 .Shorna{
@@ -68,9 +71,72 @@ h5{
 p{
     padding-left: 15px;
 }
+ .Rima{
+    width:80%;
+    padding: 4rem 3rem;
+   
+   
+}
+.Shima{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    box-shadow:0 10px 15px 0 rgb(0,0,0,.2) ;
+    margin-left:110px;
+    border-radius: 5px;
+   
+}
+.shima h1{
+    font-size:40px;
+} 
+.sathi{
+     text-align: center;
+     color:black;
+     font-size:40px ;
+}
+.tabassum{
+    color: cornsilk;
+    
+}
+.prince{
+    font-size: 15px;
+    text-align: center;
+    padding: 3rem;
+    box-shadow:0 10px 15px 0 rgb(0,0,0,.2) ;
+    margin-left:110px;
+    border-radius: 5px;
+}
+.tanvir{
+    font-size: 40px;
+    text-align: center;
+    
+}
+.ria{
+    font-size: 20px; 
+    text-align: center;
+}
+.rabbi{
+   
+   
+    align-items: center;
+    padding: 3rem;
+    box-shadow:0 10px 15px 0 rgb(0,0,0,.2) ;
+    margin:0;
+    background-color:orangered;
+    
+    
+}
 
 
 
+
+
+
+
+
+
+ 
 
 
 
